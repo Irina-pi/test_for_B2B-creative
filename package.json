@@ -1,0 +1,23 @@
+{
+  "name": "test_for_B2B-creative",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index_test.html.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Irina-pi/test_for_B2B-creative.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Irina-pi/test_for_B2B-creative/issues"
+  },
+  "homepage": "https://github.com/Irina-pi/test_for_B2B-creativel#readme",
+  "devDependencies": {
+    "prettier": "2.7.1"
+  }
+}
